@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-07-28)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`599039a`](https://github.com/stdlib-js/stdlib/commit/599039a0832889aaec19083e6d918e519edddb00) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`5d6b241`](https://github.com/stdlib-js/stdlib/commit/5d6b24158bfaf492d511bb1fe3460e15c3634f5b) - **docs:** update notes and copy _(by Athan Reines)_
 -   [`c08c615`](https://github.com/stdlib-js/stdlib/commit/c08c6152cebe101c5fb16668a708f876cc6c69e3) - **feat:** add `stats/array/nanvariance` [(#7667)](https://github.com/stdlib-js/stdlib/pull/7667) _(by Gururaj Gurram, Athan Reines)_
